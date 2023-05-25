@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main()
+{
+char str[100];
+int l,i;
+printf("\n\n print original characters of string  in reverse order:\n);
+printf("print the given string in reverse order":\n);
+printf("input the string");
+fgets(str,size of str,stdin);
+l=strlen(str);
+printf("the characters of string in reverse order are":\n);
+for(i=1;i>=0;i--)
+{
+printf("%c",str[i]);
+}
+printf("\n");
+return 0;
+}
